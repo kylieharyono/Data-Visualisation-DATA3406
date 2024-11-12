@@ -2,7 +2,7 @@
 
 ## Description
 
-This project investigates the ethics of using step count data to analyze physical activity patterns while considering privacy concerns. We explored the challenges of defining and interpreting "moderate activity" across different users and how data should be anonymized, binned, and handled. The primary goal was to assess whether individuals achieve the recommended 30 minutes of moderate physical activity most days of the week, while also accounting for the impact of non-wear versus actual inactivity. Ethical considerations, such as how much personal data should be shared and the role of informed consent, were also discussed.
+This project investigates the ethics of using step count data to analyse physical activity patterns while considering privacy concerns. We explored the challenges of defining and interpreting "moderate activity" across different users and how data should be anonymized, binned, and handled. The primary goal was to assess whether individuals achieve the recommended 30 minutes of moderate physical activity most days of the week, while also accounting for the impact of non-wear versus actual inactivity. Ethical considerations, such as how much personal data should be shared and the role of informed consent, were also discussed.
 
 ## Techniques & Tools
 
