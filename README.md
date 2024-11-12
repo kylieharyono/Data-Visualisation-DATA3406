@@ -13,8 +13,8 @@ This project investigates the ethics of using step count data to analyse physica
 ## Contributions:
 
 This repository contains results of a group project. There are three main parts to this project:
-- Data Cleaning: Individual work.
-- Data Visualisation: Individual work.
+- Data Cleaning, Exploration, and Visualisation: Individual work.
+- Individual Analysis & Visualisation: Individual work.
 - Final Product Notebook: This was group work, which was mainly authored by Dean Li, and contributed by Yiping Su, Harshil Sindhi, and Kylie Haryono.
 
 ## Acknowledgments: 
